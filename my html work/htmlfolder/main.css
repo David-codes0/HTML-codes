@@ -1,0 +1,19 @@
+nav {
+    margin-bottom: 10px;
+    padding: 8px 0;
+    background-color: orange;
+}
+
+a {
+    text-decoration: none;
+    padding: 0 16px;
+    color: white;
+    margin: 10px;
+}
+
+#Intro{
+    font-family: sans-serif;
+    border: 5px solid grey;
+    height: 500px;
+    padding: 0 16px;
+}
